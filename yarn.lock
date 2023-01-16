@@ -1513,16 +1513,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@faire/mjml-react@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "@faire/mjml-react@npm:3.0.0"
+"@faire/mjml-react@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "@faire/mjml-react@npm:3.0.2"
   dependencies:
     lodash.kebabcase: ^4.1.1
   peerDependencies:
     mjml: ^4.13.0
     react: ^16.0.0 || ^17.0.0 || ^18.0.0
     react-dom: ^16.0.0 || ^17.0.0 || ^18.0.0
-  checksum: 33cbf39396f87994851b77153c544fb172d9ad22c82fc6fc3fd7ca6bb56ffb2782983e8910000457fee3b580bdf8c3bcfb7943ed194ce4d9cde82e8221ff9cb9
+  checksum: 0fd4804d8e4f87bb25c77799f667ca5c89b9e0a2dd202b566c8d0e3cc38b65d6dcc4cc821a9a5d26394758efb144201b4bee389a14dbdc2540668230f1d6bd1d
   languageName: node
   linkType: hard
 
@@ -2385,7 +2385,7 @@ __metadata:
     "@commitlint/cli": ^17.3.0
     "@commitlint/config-conventional": ^17.3.0
     "@commitlint/prompt-cli": ^17.3.0
-    "@faire/mjml-react": ^3.0.0
+    "@faire/mjml-react": ^3.0.2
     "@nestjs/common": ^9.2.1
     "@nestjs/core": ^9.2.1
     "@nestjs/platform-express": ^9.2.1
