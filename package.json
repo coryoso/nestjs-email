@@ -12,6 +12,7 @@
   "engines": {
     "node": ">=16"
   },
+  "version": "3.1.0",
   "scripts": {
     "build": "rimraf dist && tsc -p .",
     "lint": "eslint --ext .ts,.tsx --fix --max-warnings 0 .",
